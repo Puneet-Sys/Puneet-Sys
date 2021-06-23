@@ -10,6 +10,6 @@
 
 :bulb: You can contact me on Linkedin.
 
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][1]
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][1]
 
-[1]: www.linkedin.com/in/puneet-singh-3549951b5
+[1]:www.linkedin.com/in/puneet-singh-3549951b5
