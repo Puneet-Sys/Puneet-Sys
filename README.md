@@ -28,8 +28,8 @@
 
 ## 📊 My Github Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneet-sys&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="puneet-sys" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneet-sys&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="puneet-sys" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puneet-sys&show_icons=true&locale=en&theme=radical" alt="puneet-sys" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=puneet-sys&show_icons=true&locale=en&theme=radical" alt="puneet-sys" /></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=puneet-sys&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
