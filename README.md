@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Puneet Singh</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneet-sys&label=Profile%20views&color=0e75b6&style=flat" alt="puneet-sys" /> </p>
 
 <p align="left"> <a href="https://github.com/puneet-sys/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puneet-sys&title=Commits,Repositories&theme=onedark" alt="puneet-sys" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"/>
+
  
 <p align="left"> <a href="https://twitter.com/puneet_singh__" target="blank"><img src="https://img.shields.io/twitter/follow/puneet_singh__?logo=twitter&style=for-the-badge" alt="puneet_singh__" /></a> </p>
 
@@ -25,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneet-sys&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="puneet-sys" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=puneet-sys&show_icons=true&locale=en&theme=radical" alt="puneet-sys" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=puneet-sys&show_icons=true&locale=en&theme=radical" alt="puneet-sys" /></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=puneet-sys&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
